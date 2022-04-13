@@ -1,9 +1,7 @@
 package com.company.vehicle;
 
 
-//import com.company.Vehicle;
-
-import com.company.Vehicle;
+//import com.company.vehicle.Vehicle;
 
 public class Car implements Vehicle {
 

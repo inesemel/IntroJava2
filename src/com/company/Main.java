@@ -1,9 +1,6 @@
 package com.company;
 
-import com.company.vehicle.RestaurantMenu;
-import com.company.vehicle.TaskMenu;
-
-import java.util.Random;
+import com.company.restaurant.RestaurantMenu;
 
 public class Main {
 

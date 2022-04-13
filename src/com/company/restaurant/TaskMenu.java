@@ -1,4 +1,4 @@
-package com.company.vehicle;
+package com.company.restaurant;
 
 public enum TaskMenu {
     // For defining constant values
